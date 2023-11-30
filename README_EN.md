@@ -1,17 +1,17 @@
-<!-- README em Português -->
-[🌐 English version](./README_EN.md) | Português
+<!-- README in English -->
+[🌐 Portuguese version](./README.md) | English
 
 <img align="center" width=100% src="https://github.com/madukisp/madukisp/blob/main/img/banner.png?raw=true" />
 
-Olá 👋,
+Hello 👋,
 =====================
 
-🌟 Sou Amanda, uma Dev Full Stack em formação.  
-❤️ Apaixonada por tecnologia, e sempre em busca de novos desafios e aprendizados no mundo da programação.
+🌟 I'm Amanda, a budding Full Stack Developer.  
+❤️ Passionate about technology, and always seeking new challenges and learnings in the world of programming.
 
-## 📚 Estudante
+## 📚 Student
 
-- 🎓 **Desenvolvimento Full Stack** - 4º Semestre - Universidade Estácio de Sá
+- 🎓 **Full Stack Development** - 4th Semester - Universidade Estácio de Sá
 
 <div align="center">
   <img width=56% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=madukisp&theme=radical&mode=weekly" />&nbsp;
@@ -20,7 +20,7 @@ Olá 👋,
 &nbsp;
 &nbsp;
 
-## Minhas Habilidades
+## My Skills
 
 ### Front End:
 
@@ -32,33 +32,33 @@ Olá 👋,
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer illustration">
 
 #### Back End:
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
-#### Estudando no momento:
+#### Studying at the moment:
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 
-#### Bancos de Dados:
+#### Databases:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
 
-#### Ferramentas de Trabalho:
+#### Workstation Tools:
 
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-00BFFF?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)&nbsp;
 
-### Controle de Versão:
+### Version Control:
 
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
@@ -66,9 +66,9 @@ Olá 👋,
 &nbsp;
 &nbsp;
 
-## 📫 Contatos:
+## 📫 Contacts:
 
-Sinta-se à vontade para se conectar comigo ou me enviar um e-mail! 👇
+Feel free to connect with me or send me an email! 👇
 
 <div> 
   <a href="https://www.linkedin.com/in/amanda-duque-kawa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
