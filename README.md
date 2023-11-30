@@ -1,11 +1,9 @@
 <!-- README em Português -->
 [🌐 English version](./README_EN.md) | Português
-<div style="display: flex; align-items: center; justify-content: center; text-align: center;">
-    <p>Olá 👋,</p>
-    <img align="right" src="https://media.giphy.com/media/3ITYOFkCP18TqyAKxW/giphy.gif" width="90" height="100" />
-</div>
 
-
+<h1 align="center">
+    Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" /> My name is Amanda
+</h1>
 
 <div style="text-align: center;">
     🌟 Sou Amanda, uma Dev Full Stack em formação.  

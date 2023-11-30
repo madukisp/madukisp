@@ -1,13 +1,16 @@
 <!-- README in English -->
 [🌐 Portuguese version](./README.md) | English
 
-<img align="center" width=100% src="https://github.com/madukisp/madukisp/blob/main/img/banner.png?raw=true" />
+<h1 align="center">
+    Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" /> My name is Amanda
+</h1>
 
-Hello 👋,
-=====================
-
+<div style="text-align: center;">
 🌟 I'm Amanda, a budding Full Stack Developer.  
 ❤️ Passionate about technology, and always seeking new challenges and learnings in the world of programming.
+
+   :star2: :star2: :star2: :star2: :star2: :star2: :star2: :star2: :star2: :star2:
+</div>
 
 ## 📚 Student
 
