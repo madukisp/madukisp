@@ -1,11 +1,19 @@
 <!-- README em Português -->
 [🌐 English version](./README_EN.md) | Português
+<div style="display: flex; align-items: center; justify-content: center; text-align: center;">
+    <p>Olá 👋,</p>
+    <img align="right" src="https://media.giphy.com/media/3ITYOFkCP18TqyAKxW/giphy.gif" width="90" height="100" />
+</div>
 
-Olá 👋,
-=====================
 
-🌟 Sou Amanda, uma Dev Full Stack em formação.  
-❤️ Apaixonada por tecnologia, e sempre em busca de novos desafios e aprendizados no mundo da programação.
+
+<div style="text-align: center;">
+    🌟 Sou Amanda, uma Dev Full Stack em formação.  
+    ❤️ Apaixonada por tecnologia, e sempre em busca de novos desafios e aprendizados no mundo da programação.    
+
+   :star2: :star2: :star2: :star2: :star2: :star2: :star2: :star2: :star2: :star2:
+</div>
+
 
 ## 📚 Estudante
 
