@@ -1,8 +1,6 @@
 <!-- README em Português -->
 [🌐 English version](./README_EN.md) | Português
 
-<img align="center" width=100% src="https://github.com/madukisp/madukisp/blob/main/img/banner.png?raw=true" />
-
 Olá 👋,
 =====================
 
