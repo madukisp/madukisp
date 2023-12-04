@@ -82,10 +82,3 @@ Sinta-se à vontade para se conectar comigo ou me enviar um e-mail! 👇
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b28ae6&height=120&section=footer"/>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madukisp/madukisp/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madukisp/madukisp/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/madukisp/madukisp/output/github-snake.svg" />
-  </picture>
-</p>
