@@ -1,5 +1,5 @@
 <!-- README em Português -->
-[🌐 English version](./README_EN.md) | Português
+[🌐 English version](./README.md) | Português
 
 <h1 align="center">
     Olá <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" /> Meu nome é Amanda
