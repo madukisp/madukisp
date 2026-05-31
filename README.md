@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="60%" src="https://github.com/madukisp/madukisp/blob/main/img/banner2.png?raw=true)
-  " />
-
 [![Amanda's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=madukisp&theme=tokyo-night&hide_border=true)](https://github.com/madukisp)
 
 Full Stack Developer focused on systems development, backend applications, process automation, and data integration.
