@@ -1,8 +1,8 @@
-![](banner2.png)
+![](https://github.com/madukisp/madukisp/blob/main/img/banner2.png?raw=true)
 
-[![Amanda's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=madukisp\&theme=tokyo-night)](https://github.com/madukisp)
+[![Amanda's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=madukisp&theme=tokyo-night&hide_border=true)](https://github.com/madukisp)
 
-Full Stack Developer focused on internal systems development, backend applications, process automation, and data integration.
+Full Stack Developer focused on systems development, backend applications, process automation, and data integration.
 
 Currently working on the development and maintenance of corporate systems used by multiple departments, including Human Resources, operational management, and administrative processes.
 
@@ -59,10 +59,12 @@ Currently working on the development and maintenance of corporate systems used b
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=madukisp&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
+<h2 align="center">Contact</h2>
 
-## Contact
-
-* LinkedIn: https://www.linkedin.com/in/amanda-duque-kawa/
-* GitHub: https://github.com/madukisp
-* Email: [madukisp@gmail.com](mailto:madukisp@gmail.com)
-
+<p align="center">
+<a href="https://github.com/madukisp"><img height="45" src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7"></a>
+<a href="https://www.linkedin.com/in/amanda-duque-kawa/">
+<img height="45" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin-white&logoColor=7dcfff">
+</a>
+<a href="mailto:madukisp@gmail.com"><img height="45" src="https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=bb9af7"></a>
+</p>
