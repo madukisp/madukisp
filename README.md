@@ -1,4 +1,4 @@
-![](banner.png)
+![](banner2.png)
 
 [![Amanda's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=madukisp\&theme=tokyo-night)](https://github.com/madukisp)
 
